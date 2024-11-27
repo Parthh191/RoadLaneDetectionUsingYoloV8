@@ -1,0 +1,4 @@
+train: /home/coderwizard/projects/RoadLaneDetection/data/images/train
+val: /home/coderwizard/projects/RoadLaneDetection/data/images/val
+nc: 1                        # Number of classes (lane)
+names: ['lane']              # Class names
